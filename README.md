@@ -2,7 +2,7 @@
 
 
 
-![](C:\Users\84083\Desktop\HomePage\view.png)
+![](./view.png)
 
 
 
