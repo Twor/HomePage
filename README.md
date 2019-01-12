@@ -9,6 +9,7 @@
 | command |                      url                       |
 | :-----: | :--------------------------------------------: |
 | :google |         https://www.google.com/#q={Q}          |
+| :duckgo |         https://duckduckgo.com/?q={Q}          |
 | :baidu  |         https://www.baidu.com/s?wd={Q}         |
 |  :bing  |       https://www.bing.com/search#q={Q}        |
 | :yandex |      https://yandex.com/search/?text={Q}       |
