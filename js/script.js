@@ -18,11 +18,14 @@ var cmdPrefix = ":"; //prefix for commands.
 var ssi = 1; //set default search provider. Use array index of the array below. (Starting with 0)
 // Format: [Keyword, Search URL (Search query replaces "{Q}"), "Input placeholder text"]
 var searchSources = [
-  ["g",        "https://www.google.com/#q={Q}",                          "Google"],
-  ["g",        "https://www.google.com/#q={Q}",                          "Google"],
-  ["so",       "https://stackoverflow.com/search?q={Q}",                 "Stack Overflow"],
-  ["wp",       "http://en.wikipedia.org/w/index.php?search={Q}",         "Wikipedia"],
-  ["yt",       "https://www.youtube.com/results?search_query={Q}",       "YouTube"]
+  ["g",        "https://www.google.com/#q={Q}",                             "Google"],
+  ["google",        "https://www.google.com/#q={Q}",                        "Google"],
+  ["baidu",        "https://www.baidu.com/s?wd={Q}",                          "Baidu"],
+  ["bing",        "https://www.bing.com/search#q={Q}",                      "Bing"],
+  ["yandex",        "https://yandex.com/search/?text={Q}",                        "Yandex"],
+  ["github",        "https://github.com/search/count?q={Q}",                        "Github"],
+  ["so",       "https://stackoverflow.com/search?q={Q}",                    "Stack Overflow"],
+  ["wiki",       "http://en.wikipedia.org/w/index.php?search={Q}",            "Wikipedia"],
 ];
 
 // Because I care about readability in my JS. kthx.

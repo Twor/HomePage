@@ -6,12 +6,15 @@
 
 
 
-|  command   |                       url                        |
-| :--------: | :----------------------------------------------: |
-| :g<space>  |          https://www.google.com/#q={Q}           |
-| :wp<space> |  http://en.wikipedia.org/w/index.php?search={Q}  |
-| :yt<space> | https://www.youtube.com/results?search_query={Q} |
-| :so<space> |      https://stackoverflow.com/search?q={Q}      |
+| command |                      url                       |
+| :-----: | :--------------------------------------------: |
+| :google |         https://www.google.com/#q={Q}          |
+| :baidu  |         https://www.baidu.com/s?wd={Q}         |
+|  :bing  |       https://www.bing.com/search#q={Q}        |
+| :yandex |      https://yandex.com/search/?text={Q}       |
+| :github |     https://github.com/search/count?q={Q}      |
+|   :so   |     https://stackoverflow.com/search?q={Q}     |
+|  :wiki  | http://en.wikipedia.org/w/index.php?search={Q} |
 
 
 
