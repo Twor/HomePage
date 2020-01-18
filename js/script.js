@@ -76,7 +76,7 @@ var linkMenu = [
   ["Steam",                    "https://store.steampowered.com/",""],
   ["Humble Bundle",            "https://www.humblebundle.com/",""],
   ["GOG.com",                  "https://www.gog.com/",""],
-  ["/r/gaming",                "",""],
+  ["/r/gaming",                "https://www.reddit.com/r/gaming/",""],
 
   [svgMore,                    "yellow",                                      "-HEAD-"], // Other
   ["Gmail",                    "https://www.google.com/gmail/",""],

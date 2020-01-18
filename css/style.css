@@ -31,7 +31,8 @@ textarea {
 }
 
 .background {
-  background: #0d1011 url("https://acg.toubiec.cn/random") no-repeat center fixed;
+  /* background: #0d1011 url("https://acg.toubiec.cn/random") no-repeat center fixed; */
+  background: #0d1011 url("https://api.btstu.cn/sjbz/?lx=dongman") no-repeat center fixed;
   background-size: cover;
   position: fixed;
   left: 0;
